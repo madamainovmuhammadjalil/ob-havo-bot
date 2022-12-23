@@ -1,1 +1,1 @@
-# ob-havo-bot Bu repozitoriyada ob-havo 
+Bu repositoriyada ob-havo botiga doir kodlar jamlangan
