@@ -1,1 +1,1 @@
-# ob-havo-bot
+# ob-havo-bot Bu repozitoriyada ob-havo 
